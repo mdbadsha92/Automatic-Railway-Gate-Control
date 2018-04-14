@@ -22,7 +22,9 @@ Equipment:
 
 Design:
  For Design we need:
-(1)	Servo motor (work with 5 volt): A servo motor is a rotary actuator that allows for precise control of angular position. It consists of a motor coupled to a sensor for position feedback which will control to open the gate or to close the gate.
+ 
+(1)	Servo motor (work with 5 volt): A servo motor is a rotary actuator that allows for precise control of angular position.
+It consists of a motor coupled to a sensor for position feedback which will control to open the gate or to close the gate.
 
  
 (2) Two Ultrasonic sensor:
