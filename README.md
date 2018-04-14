@@ -34,4 +34,6 @@ Ultrasonic sensor will be used to detect the obstacle that means the train. The 
  
 
 (5) Finally connect all sensor and servo motor and make code to control the servo. 
+
 (6)See the output video of whole project in Youtube: https://www.youtube.com/watch?v=JLkU6r9Eo8s&feature=youtu.be
+(7)Google drive link with project report and project proposal:https://drive.google.com/open?id=0B1rTkGJf6RKGZkZQRzEzZnhubEU
