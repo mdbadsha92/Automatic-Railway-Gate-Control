@@ -14,7 +14,7 @@ Equipment:
 1. Arduino
 2. L293d motor driver ic
 3. Two Ultrasonic sensor
-4. one Dc geared motor 30 RPM
+4. Servo motor (work with 5 volt)
 5. 12volt Power supply (SMPS)
 6. hot melt gun
 7. A wooden or plastic rod for gate 
